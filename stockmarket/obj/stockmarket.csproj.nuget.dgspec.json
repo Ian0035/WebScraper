@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ianho\\OneDrive\\Bureaublad\\2ITF\\Devops\\projectwebscraping\\stockmarket\\stockmarket.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ianho\\OneDrive\\Bureaublad\\2ITF\\Devops\\projectwebscraping\\stockmarket\\stockmarket.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ianho\\OneDrive\\Bureaublad\\2ITF\\Devops\\projectwebscraping\\stockmarket\\stockmarket.csproj",
+        "projectName": "stockmarket",
+        "projectPath": "C:\\Users\\ianho\\OneDrive\\Bureaublad\\2ITF\\Devops\\projectwebscraping\\stockmarket\\stockmarket.csproj",
+        "packagesPath": "C:\\Users\\ianho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ianho\\OneDrive\\Bureaublad\\2ITF\\Devops\\projectwebscraping\\stockmarket\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ianho\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.55, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.16.2, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.16.2, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[120.0.6099.7100, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJWJkTPmm+zxoacO8gWj+5vtTgHnLGca3kabUbwVGwNVchxIQWkbYpHrYbbMJ7PBxXauEGFk2/QXLVSjPjG+Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianho\\OneDrive\\Bureaublad\\2ITF\\Devops\\projectwebscraping\\stockmarket\\stockmarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianho\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\ianho\\.nuget\\packages\\htmlagilitypack\\1.11.55\\htmlagilitypack.1.11.55.nupkg.sha512",
+    "C:\\Users\\ianho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ianho\\.nuget\\packages\\selenium.support\\4.16.2\\selenium.support.4.16.2.nupkg.sha512",
+    "C:\\Users\\ianho\\.nuget\\packages\\selenium.webdriver\\4.16.2\\selenium.webdriver.4.16.2.nupkg.sha512",
+    "C:\\Users\\ianho\\.nuget\\packages\\selenium.webdriver.chromedriver\\120.0.6099.7100\\selenium.webdriver.chromedriver.120.0.6099.7100.nupkg.sha512"
+  ],
+  "logs": []
+}
