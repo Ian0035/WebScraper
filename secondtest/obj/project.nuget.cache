@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/hPd5VYE3ruvputdvsCoWVZuRym37m1oWPWEgRzU53JPNbKFGL+jqPQoj5N5/+nITQugqSzKbolsb4mX9y/fCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianho\\OneDrive\\Bureaublad\\2ITF\\Devops\\projectwebscraping\\secondtest\\secondtest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianho\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\ianho\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512",
+    "C:\\Users\\ianho\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\ianho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ianho\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
+    "C:\\Users\\ianho\\.nuget\\packages\\selenium.webdriver.chromedriver\\119.0.6045.10500\\selenium.webdriver.chromedriver.119.0.6045.10500.nupkg.sha512",
+    "C:\\Users\\ianho\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
